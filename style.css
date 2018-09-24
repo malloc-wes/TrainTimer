@@ -1,0 +1,30 @@
+h1 {
+	text-shadow: 1px 1px rgb(137, 175, 218);
+	font-weight: bold;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-align: right;
+
+
+}
+.row{
+	background-color: rgb(99, 169, 230);
+}
+
+h4,h5 {
+	text-shadow: 1px 1px rgb(155, 204, 233);
+	text-align: right;
+
+}
+
+img {
+	border: 1px solid white;
+	background-color: rgb(82, 130, 172);
+
+}
+
+.btn.btn-primary {
+	text-shadow: .25px .25px rgb(114, 182, 209);
+	border: 1.25px solid rgb(85, 148, 190);
+	background-color: rgb(99, 169, 230);
+
+}
